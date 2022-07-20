@@ -6,15 +6,15 @@
     android:layout_height="match_parent"
     tools:context=".MainFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <Button
+    <TextView
         android:id="@+id/btnViewPro"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="See Product"
+        android:text="Main Shop Screen"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+    
 
 </androidx.constraintlayout.widget.ConstraintLayout>
